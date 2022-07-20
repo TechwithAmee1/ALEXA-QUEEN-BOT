@@ -1,5 +1,5 @@
 {
-  "name": "Garfield-Bot",
+  "name": "Alexa Queen,
   "version": "8.8.6",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2021",
+    "2022",
     "wabase-md",
     "base",
     "baileys-md",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
+  "author": "Cyberxkid.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -68,10 +68,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8.git"
+    "url": "git+https://github.com/CYBERXKID/ALEXA-QUEEN-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8/issues"
+    "url": "https://github.com/CYBERXKID/ALEXA-QUEEN-BOT/issues"
   },
-  "homepage": "https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8#readme"
+  "homepage": "https://github.com/CYBERXKID/ALEXA-QUEEN-BOT#readme"
 }
