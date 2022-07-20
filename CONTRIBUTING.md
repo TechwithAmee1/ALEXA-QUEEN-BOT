@@ -1,4 +1,4 @@
-# Contributing to NOIZE
+# Contributing to CYBERXKID
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
@@ -84,9 +84,9 @@ faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
 
-[Home Page](https://github.com/Zenoixnoize/GARFIELD-6.0)
+[Home Page](https://github.com/CYBERXKID/ALWXA-QUEEN-BOT)
 
-[ZENOI's Blog](https://t.me/ipandaproject)
+[CYBERXKID's Blog](https://t.me/ipandaproject)
 
 ### Warning ⚠️
 
