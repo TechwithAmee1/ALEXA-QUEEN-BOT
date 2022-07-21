@@ -17,13 +17,14 @@
 ┃┣┫┃┃┗┓┃┻┓┏┛┗┓┃┣┫┃      ┗┓┃┏┛ ░░▒█░
 ┗┛┗┛┗━┛┗━┛┗┛┗┛┗┛┗┛      ░┗━┛░ ░░░░░
 
+
+https://replit.com/@Cyberm/ALEXA-QUEEN-BOT-QR-CODE#index.js
+
 ◢◤◇◥◣◥◤◢◤◆◥◣◥◤◢◤◇◥◣
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/ALEXA-QUEEN-BOT/)
 ◢◤◇◥◣◥◤◢◤◆◥◣◥◤◢◤◇◥◣
 
 
- <center>
-<a href="https://replit.com/@zenoi/Garfield-Whatsapp-Bot-Multidevice-Linker-v80?v=1outputonly=1&lite=1"><img src="/Cloud/PicsArt_22-04-16_22-52-38-348.png"></center>
-<br>
+
    
   
