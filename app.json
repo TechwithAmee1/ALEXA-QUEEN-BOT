@@ -1,0 +1,25 @@
+{
+  
+  "name": "Alexa Queen",
+  "description": "fully customized by cyberxkid",
+  "repository": "https://github.com/CYBERXKID/ALEXA-QUEEN-BOT",
+  "logo": "https://i.ibb.co/TPLgRdk/Alexa.jpg",
+  "keywords": ["Alexa", "bot", "whatsapp bot", "CYBERXKID", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
