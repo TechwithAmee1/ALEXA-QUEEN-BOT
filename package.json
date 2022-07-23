@@ -1,6 +1,6 @@
 {
   "name": "Alexa-Queen",
-  "version": "8.8.6",
+  "version": "4.0.1",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
