@@ -1,5 +1,5 @@
 {
-  "name": "Alexa Queen",
+  "name": "Alexa-Queen",
   "version": "8.8.6",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2022",
+    "2021",
     "wabase-md",
     "base",
     "baileys-md",
