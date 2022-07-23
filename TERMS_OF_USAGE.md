@@ -1,20 +1,20 @@
-# **Garfield Whatsapp Bot v8.0** TERMS OF USAGE
+# **Alexa Queen** TERMS OF USAGE
 
-Last Updated: **GMT-3 05/06/2022**
+Last Updated: **GMT-3 24/07/2022**
 
-These terms of service ("Terms") apply to your access and use of **GARFIELD v6.0.** Please read them carefully.
+These terms of service ("Terms") apply to your access and use of **ALEXA** Please read them carefully.
 
 
 ## Accepting these Terms
 
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing **Tharindunayanthaliyanage@gmail.com** or reach me via telegram **t.me/Zenoixnoize**
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing **amdablack63@gmail.com** or reach me via telegram **t.me/CYBERXKID**
 
 
 ## Changes to these Terms
 
 We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason.
 
-Whenever we make changes to these Terms, the changes are effective **everytime** after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check **GARFIELD v6.0** for changes to these Terms.
+Whenever we make changes to these Terms, the changes are effective **everytime** after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check **ALEXA** for changes to these Terms.
 
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the changes to these Terms.
 
@@ -56,19 +56,19 @@ We put a lot of effort into creating the Service including, the logo and all des
 
 THE SERVICE AND ANY OTHER SERVICE AND CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE ARE PROVIDED TO YOU ON AN AS IS OR AS AVAILABLE BASIS WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND. WE DISCLAIM ANY AND ALL WARRANTIES AND REPRESENTATIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN) WITH RESPECT TO THE SERVICE AND CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE WHETHER ALLEGED TO ARISE BY OPERATION OF LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, BY COURSE OF DEALING OR OTHERWISE.
 
-IN NO EVENT WILL **Zenoixnoize** BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THE SERVICE OR ANY OTHER SERVICE AND/OR CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR ARE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE AMOUNT YOU PAID TO **Zenoixnoize**. THIS SECTION WILL BE GIVEN FULL EFFECT EVEN IF ANY REMEDY SPECIFIED IN THIS AGREEMENT IS DEEMED TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+IN NO EVENT WILL **CYBERXKID** BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THE SERVICE OR ANY OTHER SERVICE AND/OR CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR ARE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY FOR ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE AMOUNT YOU PAID TO **CYBERXKID**. THIS SECTION WILL BE GIVEN FULL EFFECT EVEN IF ANY REMEDY SPECIFIED IN THIS AGREEMENT IS DEEMED TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 You agree to defend, indemnify and hold us harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys' fees, costs, penalties, interest and disbursements) we incur in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third party relating to your use of the Service or the use of the Service by any person using your account, including any claim that your use of the Service violates any applicable law or regulation, or the rights of any third party, and/or your violation of these Terms.
 
 
 ## Copyright Complaints
 
-We take intellectual property rights seriously. We have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. 2021 GARFIELD v6.0 All Rights Reserved.
+We take intellectual property rights seriously. We have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. 2021 ALEXA All Rights Reserved.
 
 
 ## Governing Law
 
-The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **Sri Lanka Constitution**, without regard to conflicts of law principles.
+The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **South Africa Constitution**, without regard to conflicts of law principles.
 
 
 ## Termination
@@ -78,14 +78,14 @@ If you breach any of these Terms, we have the right to suspend or disable your a
 
 ## Entire Agreement
 
-These Terms constitute the entire agreement between you and **ZENOI** regarding the use of the Service, superseding any prior agreements between you and **ZENOI** relating to your use of the Service.
+These Terms constitute the entire agreement between you and **CYBERXKID** regarding the use of the Service, superseding any prior agreements between you and **CYBERXKID** relating to your use of the Service.
 
 
 ## Feedback
 
-Please let us know what you think of the Service, these Terms and, in general, **GARFIELD v6.0**. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, **GARFIELD v6.0**, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
+Please let us know what you think of the Service, these Terms and, in general, **ALEXA**. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, **ALEXA**, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
 
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address **Tharindunayanthaliyanage@gmail.com** or reach me via telegram **t.me/Zenoixnoize**.
+Questions or comments about the Service may be directed to us at the email address **amdablack63@gmail.com** or reach me via telegram **t.me/CYBERXKID**.
